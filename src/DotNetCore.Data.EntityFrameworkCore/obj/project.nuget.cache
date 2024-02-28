@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IyUGY7OIOD9iXJwFI7dI+dDhTCLA41IGerIJrD3BPawwbzAu5HjUQSRHsrydAHnYjWgSxp8709zxZziQN8fTBA==",
+  "dgSpecHash": "oGrU37RdIzM3Z/psP84GoD89oTScWCFkC3gIxDkXVTR6cDJmsOEk9wehST7xri7yJzjQQmYgxI85yCnPeQ2jiQ==",
   "success": true,
-  "projectFilePath": "E:\\云畅\\code\\sdk\\DotNetCore\\src\\DotNetCore.Data.EntityFrameworkCore\\DotNetCore.Data.EntityFrameworkCore.csproj",
+  "projectFilePath": "E:\\云畅\\code\\sdk\\DotNetCore\\DotNetCore\\src\\DotNetCore.Data.EntityFrameworkCore\\DotNetCore.Data.EntityFrameworkCore.csproj",
   "expectedPackageFiles": [
     "D:\\ProgramData\\nuget\\packages\\microsoft.entityframeworkcore\\8.0.1\\microsoft.entityframeworkcore.8.0.1.nupkg.sha512",
     "D:\\ProgramData\\nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.1\\microsoft.entityframeworkcore.abstractions.8.0.1.nupkg.sha512",

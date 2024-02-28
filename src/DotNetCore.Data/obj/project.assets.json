@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\云畅\\code\\sdk\\DotNetCore\\src\\DotNetCore.Data\\DotNetCore.Data.csproj",
+      "projectUniqueName": "E:\\云畅\\code\\sdk\\DotNetCore\\DotNetCore\\src\\DotNetCore.Data\\DotNetCore.Data.csproj",
       "projectName": "DotNetCore.Data",
-      "projectPath": "E:\\云畅\\code\\sdk\\DotNetCore\\src\\DotNetCore.Data\\DotNetCore.Data.csproj",
+      "projectPath": "E:\\云畅\\code\\sdk\\DotNetCore\\DotNetCore\\src\\DotNetCore.Data\\DotNetCore.Data.csproj",
       "packagesPath": "D:\\ProgramData\\nuget\\packages",
-      "outputPath": "E:\\云畅\\code\\sdk\\DotNetCore\\src\\DotNetCore.Data\\obj\\",
+      "outputPath": "E:\\云畅\\code\\sdk\\DotNetCore\\DotNetCore\\src\\DotNetCore.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "d:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

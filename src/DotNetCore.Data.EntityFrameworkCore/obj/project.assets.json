@@ -662,11 +662,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\云畅\\code\\sdk\\DotNetCore\\src\\DotNetCore.Data.EntityFrameworkCore\\DotNetCore.Data.EntityFrameworkCore.csproj",
+      "projectUniqueName": "E:\\云畅\\code\\sdk\\DotNetCore\\DotNetCore\\src\\DotNetCore.Data.EntityFrameworkCore\\DotNetCore.Data.EntityFrameworkCore.csproj",
       "projectName": "DotNetCore.Data.EntityFrameworkCore",
-      "projectPath": "E:\\云畅\\code\\sdk\\DotNetCore\\src\\DotNetCore.Data.EntityFrameworkCore\\DotNetCore.Data.EntityFrameworkCore.csproj",
+      "projectPath": "E:\\云畅\\code\\sdk\\DotNetCore\\DotNetCore\\src\\DotNetCore.Data.EntityFrameworkCore\\DotNetCore.Data.EntityFrameworkCore.csproj",
       "packagesPath": "D:\\ProgramData\\nuget\\packages",
-      "outputPath": "E:\\云畅\\code\\sdk\\DotNetCore\\src\\DotNetCore.Data.EntityFrameworkCore\\obj\\",
+      "outputPath": "E:\\云畅\\code\\sdk\\DotNetCore\\DotNetCore\\src\\DotNetCore.Data.EntityFrameworkCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "d:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -691,8 +691,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\云畅\\code\\sdk\\DotNetCore\\src\\DotNetCore.Data\\DotNetCore.Data.csproj": {
-              "projectPath": "E:\\云畅\\code\\sdk\\DotNetCore\\src\\DotNetCore.Data\\DotNetCore.Data.csproj"
+            "E:\\云畅\\code\\sdk\\DotNetCore\\DotNetCore\\src\\DotNetCore.Data\\DotNetCore.Data.csproj": {
+              "projectPath": "E:\\云畅\\code\\sdk\\DotNetCore\\DotNetCore\\src\\DotNetCore.Data\\DotNetCore.Data.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sO6R1UlV/7pZ3MHUH3WC/IfWpmlSL5B+DkMsOtmCars/lhoPbxAXFZSRxMU7yUyGyGsFb9fY6XhTQgTeMSJIVA==",
+  "dgSpecHash": "fXViXO9W6cn1o9WtR8G8HDaS0K/5324gVY9NRso7+a/Gp2T/kfH310D/Bv2YikePAwiyAKrFQDJCczlg3+OxWw==",
   "success": true,
-  "projectFilePath": "E:\\云畅\\code\\sdk\\DotNetCore\\src\\DotNetCore.Data\\DotNetCore.Data.csproj",
+  "projectFilePath": "E:\\云畅\\code\\sdk\\DotNetCore\\DotNetCore\\src\\DotNetCore.Data\\DotNetCore.Data.csproj",
   "expectedPackageFiles": [],
   "logs": [
     {

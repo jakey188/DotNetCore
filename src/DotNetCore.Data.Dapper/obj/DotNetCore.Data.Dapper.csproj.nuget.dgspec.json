@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\云畅\\code\\sdk\\DotNetCore\\src\\DotNetCore.Data.Dapper\\DotNetCore.Data.Dapper.csproj": {}
+    "E:\\云畅\\code\\sdk\\DotNetCore\\DotNetCore\\src\\DotNetCore.Data.Dapper\\DotNetCore.Data.Dapper.csproj": {}
   },
   "projects": {
-    "E:\\云畅\\code\\sdk\\DotNetCore\\src\\DotNetCore.Data.Dapper\\DotNetCore.Data.Dapper.csproj": {
+    "E:\\云畅\\code\\sdk\\DotNetCore\\DotNetCore\\src\\DotNetCore.Data.Dapper\\DotNetCore.Data.Dapper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\云畅\\code\\sdk\\DotNetCore\\src\\DotNetCore.Data.Dapper\\DotNetCore.Data.Dapper.csproj",
+        "projectUniqueName": "E:\\云畅\\code\\sdk\\DotNetCore\\DotNetCore\\src\\DotNetCore.Data.Dapper\\DotNetCore.Data.Dapper.csproj",
         "projectName": "DotNetCore.Data.Dapper",
-        "projectPath": "E:\\云畅\\code\\sdk\\DotNetCore\\src\\DotNetCore.Data.Dapper\\DotNetCore.Data.Dapper.csproj",
+        "projectPath": "E:\\云畅\\code\\sdk\\DotNetCore\\DotNetCore\\src\\DotNetCore.Data.Dapper\\DotNetCore.Data.Dapper.csproj",
         "packagesPath": "D:\\ProgramData\\nuget\\packages",
-        "outputPath": "E:\\云畅\\code\\sdk\\DotNetCore\\src\\DotNetCore.Data.Dapper\\obj\\",
+        "outputPath": "E:\\云畅\\code\\sdk\\DotNetCore\\DotNetCore\\src\\DotNetCore.Data.Dapper\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "d:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -36,8 +36,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\云畅\\code\\sdk\\DotNetCore\\src\\DotNetCore.Data.EntityFrameworkCore\\DotNetCore.Data.EntityFrameworkCore.csproj": {
-                "projectPath": "E:\\云畅\\code\\sdk\\DotNetCore\\src\\DotNetCore.Data.EntityFrameworkCore\\DotNetCore.Data.EntityFrameworkCore.csproj"
+              "E:\\云畅\\code\\sdk\\DotNetCore\\DotNetCore\\src\\DotNetCore.Data.EntityFrameworkCore\\DotNetCore.Data.EntityFrameworkCore.csproj": {
+                "projectPath": "E:\\云畅\\code\\sdk\\DotNetCore\\DotNetCore\\src\\DotNetCore.Data.EntityFrameworkCore\\DotNetCore.Data.EntityFrameworkCore.csproj"
               }
             }
           }
@@ -77,14 +77,14 @@
         }
       }
     },
-    "E:\\云畅\\code\\sdk\\DotNetCore\\src\\DotNetCore.Data.EntityFrameworkCore\\DotNetCore.Data.EntityFrameworkCore.csproj": {
+    "E:\\云畅\\code\\sdk\\DotNetCore\\DotNetCore\\src\\DotNetCore.Data.EntityFrameworkCore\\DotNetCore.Data.EntityFrameworkCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\云畅\\code\\sdk\\DotNetCore\\src\\DotNetCore.Data.EntityFrameworkCore\\DotNetCore.Data.EntityFrameworkCore.csproj",
+        "projectUniqueName": "E:\\云畅\\code\\sdk\\DotNetCore\\DotNetCore\\src\\DotNetCore.Data.EntityFrameworkCore\\DotNetCore.Data.EntityFrameworkCore.csproj",
         "projectName": "DotNetCore.Data.EntityFrameworkCore",
-        "projectPath": "E:\\云畅\\code\\sdk\\DotNetCore\\src\\DotNetCore.Data.EntityFrameworkCore\\DotNetCore.Data.EntityFrameworkCore.csproj",
+        "projectPath": "E:\\云畅\\code\\sdk\\DotNetCore\\DotNetCore\\src\\DotNetCore.Data.EntityFrameworkCore\\DotNetCore.Data.EntityFrameworkCore.csproj",
         "packagesPath": "D:\\ProgramData\\nuget\\packages",
-        "outputPath": "E:\\云畅\\code\\sdk\\DotNetCore\\src\\DotNetCore.Data.EntityFrameworkCore\\obj\\",
+        "outputPath": "E:\\云畅\\code\\sdk\\DotNetCore\\DotNetCore\\src\\DotNetCore.Data.EntityFrameworkCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "d:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -109,8 +109,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\云畅\\code\\sdk\\DotNetCore\\src\\DotNetCore.Data\\DotNetCore.Data.csproj": {
-                "projectPath": "E:\\云畅\\code\\sdk\\DotNetCore\\src\\DotNetCore.Data\\DotNetCore.Data.csproj"
+              "E:\\云畅\\code\\sdk\\DotNetCore\\DotNetCore\\src\\DotNetCore.Data\\DotNetCore.Data.csproj": {
+                "projectPath": "E:\\云畅\\code\\sdk\\DotNetCore\\DotNetCore\\src\\DotNetCore.Data\\DotNetCore.Data.csproj"
               }
             }
           }
@@ -154,14 +154,14 @@
         }
       }
     },
-    "E:\\云畅\\code\\sdk\\DotNetCore\\src\\DotNetCore.Data\\DotNetCore.Data.csproj": {
+    "E:\\云畅\\code\\sdk\\DotNetCore\\DotNetCore\\src\\DotNetCore.Data\\DotNetCore.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\云畅\\code\\sdk\\DotNetCore\\src\\DotNetCore.Data\\DotNetCore.Data.csproj",
+        "projectUniqueName": "E:\\云畅\\code\\sdk\\DotNetCore\\DotNetCore\\src\\DotNetCore.Data\\DotNetCore.Data.csproj",
         "projectName": "DotNetCore.Data",
-        "projectPath": "E:\\云畅\\code\\sdk\\DotNetCore\\src\\DotNetCore.Data\\DotNetCore.Data.csproj",
+        "projectPath": "E:\\云畅\\code\\sdk\\DotNetCore\\DotNetCore\\src\\DotNetCore.Data\\DotNetCore.Data.csproj",
         "packagesPath": "D:\\ProgramData\\nuget\\packages",
-        "outputPath": "E:\\云畅\\code\\sdk\\DotNetCore\\src\\DotNetCore.Data\\obj\\",
+        "outputPath": "E:\\云畅\\code\\sdk\\DotNetCore\\DotNetCore\\src\\DotNetCore.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "d:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
