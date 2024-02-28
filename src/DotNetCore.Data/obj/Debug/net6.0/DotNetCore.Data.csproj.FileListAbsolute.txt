@@ -1,0 +1,11 @@
+E:\云畅\code\sdk\DotNetCore\src\DotNetCore.Data\bin\Debug\net6.0\DotNetCore.Data.deps.json
+E:\云畅\code\sdk\DotNetCore\src\DotNetCore.Data\bin\Debug\net6.0\DotNetCore.Data.dll
+E:\云畅\code\sdk\DotNetCore\src\DotNetCore.Data\bin\Debug\net6.0\DotNetCore.Data.pdb
+E:\云畅\code\sdk\DotNetCore\src\DotNetCore.Data\obj\Debug\net6.0\DotNetCore.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\云畅\code\sdk\DotNetCore\src\DotNetCore.Data\obj\Debug\net6.0\DotNetCore.Data.AssemblyInfoInputs.cache
+E:\云畅\code\sdk\DotNetCore\src\DotNetCore.Data\obj\Debug\net6.0\DotNetCore.Data.AssemblyInfo.cs
+E:\云畅\code\sdk\DotNetCore\src\DotNetCore.Data\obj\Debug\net6.0\DotNetCore.Data.csproj.CoreCompileInputs.cache
+E:\云畅\code\sdk\DotNetCore\src\DotNetCore.Data\obj\Debug\net6.0\DotNetCore.Data.dll
+E:\云畅\code\sdk\DotNetCore\src\DotNetCore.Data\obj\Debug\net6.0\refint\DotNetCore.Data.dll
+E:\云畅\code\sdk\DotNetCore\src\DotNetCore.Data\obj\Debug\net6.0\DotNetCore.Data.pdb
+E:\云畅\code\sdk\DotNetCore\src\DotNetCore.Data\obj\Debug\net6.0\ref\DotNetCore.Data.dll

@@ -1,0 +1,12 @@
+E:\云畅\code\sdk\DotNetCore\src\DotNetCore\obj\Debug\net8.0\DotNetCore.csproj.AssemblyReference.cache
+E:\云畅\code\sdk\DotNetCore\src\DotNetCore\obj\Debug\net8.0\DotNetCore.GeneratedMSBuildEditorConfig.editorconfig
+E:\云畅\code\sdk\DotNetCore\src\DotNetCore\obj\Debug\net8.0\DotNetCore.AssemblyInfoInputs.cache
+E:\云畅\code\sdk\DotNetCore\src\DotNetCore\obj\Debug\net8.0\DotNetCore.AssemblyInfo.cs
+E:\云畅\code\sdk\DotNetCore\src\DotNetCore\obj\Debug\net8.0\DotNetCore.csproj.CoreCompileInputs.cache
+E:\云畅\code\sdk\DotNetCore\src\DotNetCore\bin\Debug\net8.0\DotNetCore.deps.json
+E:\云畅\code\sdk\DotNetCore\src\DotNetCore\bin\Debug\net8.0\DotNetCore.dll
+E:\云畅\code\sdk\DotNetCore\src\DotNetCore\bin\Debug\net8.0\DotNetCore.pdb
+E:\云畅\code\sdk\DotNetCore\src\DotNetCore\obj\Debug\net8.0\DotNetCore.dll
+E:\云畅\code\sdk\DotNetCore\src\DotNetCore\obj\Debug\net8.0\refint\DotNetCore.dll
+E:\云畅\code\sdk\DotNetCore\src\DotNetCore\obj\Debug\net8.0\DotNetCore.pdb
+E:\云畅\code\sdk\DotNetCore\src\DotNetCore\obj\Debug\net8.0\ref\DotNetCore.dll

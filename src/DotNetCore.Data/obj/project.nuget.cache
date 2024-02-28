@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "sO6R1UlV/7pZ3MHUH3WC/IfWpmlSL5B+DkMsOtmCars/lhoPbxAXFZSRxMU7yUyGyGsFb9fY6XhTQgTeMSJIVA==",
+  "success": true,
+  "projectFilePath": "E:\\云畅\\code\\sdk\\DotNetCore\\src\\DotNetCore.Data\\DotNetCore.Data.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "正在通过 “HTTP” 源“http://nexus.onein.cn/repository/nuget-group/index.json”运行“restore”操作。将来的版本中将删除非 HTTPS 访问权限。请考虑迁移到 “HTTPS” 源。"
+    }
+  ]
+}

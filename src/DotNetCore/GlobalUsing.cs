@@ -1,0 +1,13 @@
+﻿global using System;
+global using System.Collections.Generic;
+global using System.Linq;
+global using System.Threading.Tasks;
+global using Microsoft.Extensions.DependencyInjection;
+global using DotNetCore.Reflection;
+global using Microsoft.Extensions.DependencyInjection.Extensions;
+global using System.Reflection;
+global using System.Collections;
+global using System.ComponentModel.DataAnnotations;
+global using System.ComponentModel;
+global using System.Diagnostics.CodeAnalysis;
+global using System.Text;

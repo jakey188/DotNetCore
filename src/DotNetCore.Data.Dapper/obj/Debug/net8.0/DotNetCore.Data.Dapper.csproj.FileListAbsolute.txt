@@ -1,0 +1,17 @@
+E:\云畅\code\sdk\DotNetCore\src\DotNetCore.Data.Dapper\bin\Debug\net8.0\DotNetCore.Data.Dapper.deps.json
+E:\云畅\code\sdk\DotNetCore\src\DotNetCore.Data.Dapper\bin\Debug\net8.0\DotNetCore.Data.Dapper.dll
+E:\云畅\code\sdk\DotNetCore\src\DotNetCore.Data.Dapper\bin\Debug\net8.0\DotNetCore.Data.Dapper.pdb
+E:\云畅\code\sdk\DotNetCore\src\DotNetCore.Data.Dapper\obj\Debug\net8.0\DotNetCore.Data.Dapper.GeneratedMSBuildEditorConfig.editorconfig
+E:\云畅\code\sdk\DotNetCore\src\DotNetCore.Data.Dapper\obj\Debug\net8.0\DotNetCore.Data.Dapper.AssemblyInfoInputs.cache
+E:\云畅\code\sdk\DotNetCore\src\DotNetCore.Data.Dapper\obj\Debug\net8.0\DotNetCore.Data.Dapper.AssemblyInfo.cs
+E:\云畅\code\sdk\DotNetCore\src\DotNetCore.Data.Dapper\obj\Debug\net8.0\DotNetCore.Data.Dapper.csproj.CoreCompileInputs.cache
+E:\云畅\code\sdk\DotNetCore\src\DotNetCore.Data.Dapper\obj\Debug\net8.0\DotNetCore.Data.Dapper.dll
+E:\云畅\code\sdk\DotNetCore\src\DotNetCore.Data.Dapper\obj\Debug\net8.0\refint\DotNetCore.Data.Dapper.dll
+E:\云畅\code\sdk\DotNetCore\src\DotNetCore.Data.Dapper\obj\Debug\net8.0\DotNetCore.Data.Dapper.pdb
+E:\云畅\code\sdk\DotNetCore\src\DotNetCore.Data.Dapper\obj\Debug\net8.0\ref\DotNetCore.Data.Dapper.dll
+E:\云畅\code\sdk\DotNetCore\src\DotNetCore.Data.Dapper\obj\Debug\net8.0\DotNetCore.Data.Dapper.csproj.AssemblyReference.cache
+E:\云畅\code\sdk\DotNetCore\src\DotNetCore.Data.Dapper\bin\Debug\net8.0\DotNetCore.Data.dll
+E:\云畅\code\sdk\DotNetCore\src\DotNetCore.Data.Dapper\bin\Debug\net8.0\DotNetCore.Data.EntityFrameworkCore.dll
+E:\云畅\code\sdk\DotNetCore\src\DotNetCore.Data.Dapper\bin\Debug\net8.0\DotNetCore.Data.EntityFrameworkCore.pdb
+E:\云畅\code\sdk\DotNetCore\src\DotNetCore.Data.Dapper\bin\Debug\net8.0\DotNetCore.Data.pdb
+E:\云畅\code\sdk\DotNetCore\src\DotNetCore.Data.Dapper\obj\Debug\net8.0\DotNetCore.Data.Dapper.csproj.CopyComplete
