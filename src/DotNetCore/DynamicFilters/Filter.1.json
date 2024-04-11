@@ -1,0 +1,36 @@
+﻿/* (id = 2 and id=3) AND (id = 2 OR id = 3)*/
+{
+  "Concat": "And",
+  "Filters": [ /*条件连接符And,Or。注:Field/Operator/Value 与 Concat/Filters 不要同时设置*/
+    {
+      "Concat": "Or",
+      "Filters": [
+        {
+          "Field": "id",
+          "Operator": "Eq",
+          "Value": 2
+        },
+        {
+          "Field": "id",
+          "Operator": "Eq",
+          "Value": 3
+        }
+      ]
+    },
+    {
+      "Concat": "And",
+      "Filters": [
+        {
+          "Field": "id",
+          "Operator": "Eq",
+          "Value": 2
+        },
+        {
+          "Field": "id",
+          "Operator": "Eq",
+          "Value": 3
+        }
+      ]
+    }
+  ]
+}

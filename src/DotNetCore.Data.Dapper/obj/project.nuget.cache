@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "CLoY+3V9vObVOxbaAV0FMij6AvHbg7XusDYLkLVhAksDJULgPABRvFl64RmD2JGFz4nQvOjRNIh9gMtVAZoEkg==",
+  "dgSpecHash": "zjXsc2ZYhvfqNweZNXI8bwLkhezc3i4X6Q8RnQbuEJXKp0f/BIRvBigDjxolO438bcFPje6EFyqVV3UfGauE0A==",
   "success": true,
   "projectFilePath": "E:\\云畅\\code\\sdk\\DotNetCore\\DotNetCore\\src\\DotNetCore.Data.Dapper\\DotNetCore.Data.Dapper.csproj",
   "expectedPackageFiles": [
