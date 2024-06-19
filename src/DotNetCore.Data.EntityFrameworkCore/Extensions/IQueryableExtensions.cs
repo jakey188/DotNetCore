@@ -4,7 +4,7 @@ using static Microsoft.EntityFrameworkCore.DbLoggerCategory;
 using System;
 using Microsoft.EntityFrameworkCore.Query;
 
-namespace DotNetCore.Data.EntityFrameworkCore.Extensions
+namespace DotNetCore.Data.EntityFrameworkCore
 {
     public static class IQueryableExtensions
     {

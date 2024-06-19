@@ -1,4 +1,6 @@
 ﻿
+using Microsoft.Extensions.DependencyInjection.Extensions;
+
 namespace DotNetCore.Data.EntityFrameworkCore
 {
     public static class ProgramExtensions
@@ -25,9 +27,8 @@ namespace DotNetCore.Data.EntityFrameworkCore
             
             services.AddScoped(typeof(IUnitOfWork), typeof(UnitOfWork));
             services.AddScoped(typeof(IUnitOfWork<>), typeof(UnitOfWork<>));
-
-            services.AddTransient(typeof(IEfCoreRepository<,>), typeof(EfCoreRepository<,>));
-            services.AddTransient(typeof(IEfCoreRepository<,,>), typeof(EfCoreRepository<,,>));
+            services.TryAdd(new ServiceDescriptor(typeof(IEfCoreRepository<,>), typeof(EfCoreRepository<,>), serviceLifetime));
+            services.TryAdd(new ServiceDescriptor(typeof(IEfCoreRepository<,,>), typeof(EfCoreRepository<,,>), serviceLifetime));
             return services;
         }
     }

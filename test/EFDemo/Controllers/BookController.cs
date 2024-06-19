@@ -4,6 +4,7 @@ using EFDemo.Services.Impl;
 using Microsoft.EntityFrameworkCore;
 using DotNetCore.Data.EntityFrameworkCore.UnitOfWorks;
 using DotNetCore.Data.EntityFrameworkCore.Uow;
+using DotNetCore.Data.EntityFrameworkCore;
 
 
 namespace EFDemo.Controllers
@@ -19,13 +20,13 @@ namespace EFDemo.Controllers
 
         // 工作单元,
         // 如果不传入指定DbContext，默认使用第一个注入的DbContext
-        private readonly IUnitOfWork _unitOfWork;
+        private readonly IUnitOfWork<BookDbContext> _unitOfWork;
 
         private readonly BookDbContext _bookDbContext;
 
         public BookController(IBookService bookService,
             IBookRepository bookRepository,
-            IUnitOfWork unitOfWork,
+            IUnitOfWork<BookDbContext> unitOfWork,
             BookDbContext bookDbContext)
         {
             _bookService = bookService;
@@ -71,7 +72,7 @@ namespace EFDemo.Controllers
         {
             var resp = _unitOfWork.GetGenericRepository<Book, int>();
 
-            using var tran = await _unitOfWork.BeginTransactionAsync();
+            using var tran = await _unitOfWork.BeginOrUseTransactionAsync();
 
             var entity = await _bookRepository.InsertAsync(new Book { Name = name });
 
@@ -80,10 +81,36 @@ namespace EFDemo.Controllers
             return entity;
         }
 
+        [HttpPost("InsertTranFunc")]
+        public Book InsertTranFunc(string name)
+        {
+            var entity = _bookRepository.CurrentDbContext.Transaction(() =>
+            {
+                var model = new Book { Name = name };
+                _bookRepository.CurrentDbContext.Add(model);
+                _bookRepository.CurrentDbContext.SaveChanges();
+                return model;
+            });
+
+            return entity;
+        }
+
+        [HttpPost("InsertTranAsyncFunc")]
+        public async Task<Book> InsertTranAsyncFunc(string name)
+        {
+            var entity = await _bookRepository.UnitOfWork.TransactionAsync(async () =>
+            {
+                var e = await _bookRepository.InsertAsync(new Book { Name = name });
+                return e;
+            });
+
+            return entity;
+        }
+
         [HttpPost("InsertTranExceptionAsync")]
         public async Task<Book> InsertTranExceptionAsync(string name)
         {
-            using var tran = await _bookRepository.UnitOfWork.BeginTransactionAsync();
+            using var tran = await _bookRepository.UnitOfWork.BeginOrUseTransactionAsync();
 
             try
             {
@@ -100,6 +127,21 @@ namespace EFDemo.Controllers
                 await tran.RollbackAsync();
                 return null;
             }
+        }
+
+        [HttpPost("InsertTranExceptionAsyncFunc")]
+        public async Task<Book> InsertTranExceptionAsyncFunc(string name)
+        {
+            var entity = await _bookRepository.UnitOfWork.TransactionAsync(async () =>
+            {
+                var en = await _bookRepository.InsertAsync(new Book { Name = name }, HttpContext.RequestAborted);
+
+                Convert.ToInt32(name);
+
+                return en;
+            });
+
+            return entity;
         }
 
         [HttpPut("Update/{id}")]

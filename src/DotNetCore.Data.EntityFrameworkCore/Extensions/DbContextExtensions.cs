@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DotNetCore.Data.EntityFrameworkCore.Extensions;
+using System;
 using System.Collections.Generic;
 using System.Data.Common;
 using System.Globalization;
@@ -7,7 +8,7 @@ using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DotNetCore.Data.EntityFrameworkCore.Extensions
+namespace DotNetCore.Data.EntityFrameworkCore
 {
     public static class DbContextExtensions
     {
